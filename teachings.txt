@@ -1,0 +1,17 @@
+// learning react // 
+
+// you can use <> and </> tags to return elements from React functions
+because in react you can only return one element, which can be an element that 
+contains many elements. 
+
+if you don't want a div you can use <> </> tags
+
+// capital letters for React components
+
+// import react statements come with every react component but you do not need them anymore
+
+// insert component from another file with <filename /> like an xml tag 
+
+you can pass props in functions and set default props
+
+prop types make your code more robust
